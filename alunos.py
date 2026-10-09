@@ -4,7 +4,7 @@ BASE_ALUNOS = {
     "Adam Gonçalves de Albuquerque Medeiros": {"contato": "82999481161", "turma": "TERÇA-NOITE"},
 	"Ana Clara Monte Barros Lima da Rocha": {"contato": "82993126520", "turma": "REVISÃO MACEIÓ"},
     "Adrielly Rebeca Souza Inacio": {"contato": "82987159586", "turma": "SEXTA-TARDE"},
-	"Antônio Guilherme Vitória de Barros Alves Vasconcelos": {"contato": "82981496108", "turma": "REVISÃO MACEIÓ},
+	"Antônio Guilherme Vitória de Barros Alves Vasconcelos": {"contato": "82981496108", "turma": "REVISÃO MACEIÓ"},
 	"André Ribeiro de Melo": {"contato": "82993474592", "turma": "REVISÃO MACEIÓ"},
     "Alan Balbino Monteiro Cavalcante": {"contato": "82991654028", "turma": "SEXTA-MANHÃ"},
     "Alexandre Cavalcante Seabra": {"contato": "82993982774", "turma": "QUARTA-PRO"},
