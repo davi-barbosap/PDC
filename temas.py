@@ -79,5 +79,4 @@ TEMAS_POR_LIVRO = {
         "Caminhos para a garantia de moradia digna à população"
 
     ]
-
-    ]
+}
