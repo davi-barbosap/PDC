@@ -56,6 +56,28 @@ TEMAS_POR_LIVRO = {
     "Nivelamento": [ 
         "Saúde mental diante do uso excessivo de tecnologias no Brasil",
         "Uso de cigarros eletrônicos enquanto questão de saúde pública no Brasil"
-    ]
+    ],
+
+    "Revisão": [
+        "Caminhos para a proteção digital de crianças e adolescentes no Brasil",
+        "⁠Desafios no combate ao analfabetismo no Brasil",
+        "A importância do combate à violência urbana no Brasil",
+        "⁠A importância da doação de sangue no Brasil",
+        "⁠Consequências da desregulamentação das IAs no Brasil",
+        "⁠Medidas para o combate ao racismo ambiental no Brasil",
+        "⁠Desafios no combate à violência escolar no Brasil",
+        "Exposição midiática e violência: caminhos e perspectivas",
+        "Combate à evasão escolar entre Pessoas com Deficiência",
+        "⁠Impactos da dependência digital à saúde mental no Brasil",
+        "⁠Perspectivas em torno da vacinação infantil no Brasil",
+        "Formas de inclusão de imigrantes no mercado de trabalho nacional",
+        "⁠A importância do combate à crise climática no Brasil",
+        "⁠Perspectivas de combate à extorsão digital no Brasil",
+        "⁠Formas de combate ao tabagismo no Brasil",
+        "Democratização do acesso à arte no Brasil",
+        "A importância do fortalecimento do letramento digital",
+        "Caminhos para a garantia de moradia digna à população"
 
 }
+
+        }
