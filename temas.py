@@ -78,6 +78,6 @@ TEMAS_POR_LIVRO = {
         "A importância do fortalecimento do letramento digital",
         "Caminhos para a garantia de moradia digna à população"
 
-}
+    ]
 
-        }
+    ]
