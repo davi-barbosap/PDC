@@ -1,5 +1,4 @@
-# -*- coding: utf-8 -*-
-# Base consolidada e sem duplicatas - 413 alunos
+# Base consolidada e sem duplicatas - 268 alunos UG
 BASE_ALUNOS = {
 "Alan Balbino Monteiro Cavalcante": {"contato": "82991654028", "turma": "UG"},
 "Alexandre Jose Cavalcante de Oliveira Austregesilo de Athaydd Breda": {"contato": "82982333431", "turma": "UG"},
