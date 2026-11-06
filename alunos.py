@@ -92,6 +92,7 @@ BASE_ALUNOS = {
 "Gabriela Maria Alves Guimarães": {"contato": "82987420248", "turma": "UG"},
 "Gabriela Moura Franco": {"contato": "82999774125", "turma": "UG"},
 "Gabriela Pacheco": {"contato": "82981469343", "turma": "UG"},
+"Gabriella Souza Leme": {"contato": "82988806729", "turma": "UG"},
 "Gabriely Vitória": {"contato": "82991124989", "turma": "UG"},
 "Gabryella Oliveira Passos": {"contato": "82987191149", "turma": "UG"},
 "Giovana Ferro dos Santos": {"contato": "82998070306", "turma": "UG"},
