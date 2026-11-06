@@ -1,5 +1,6 @@
 # Base consolidada e sem duplicatas - 310 alunos UG
 BASE_ALUNOS = {
+"Ana Clara Monte": {"contato": "82993126520", "turma": "UG"},
 "Alan Balbino Monteiro Cavalcante": {"contato": "82991654028", "turma": "UG"},
 "Alexandre Jose Cavalcante de Oliveira Austregesilo de Athaydd Breda": {"contato": "82982333431", "turma": "UG"},
 "Alice Carvalho de Gusmão": {"contato": "82987122528", "turma": "UG"},
